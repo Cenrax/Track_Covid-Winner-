@@ -26,7 +26,6 @@ For the android app visit the link https://github.com/sourajit1999/Track_COVID-1
 
 ## Python code
 
-In the **Code** folder there are two python files . Data_Processing.py process the data which analyses the travel database and gives the medical professionals the details of the associated persons with the affected person.
+In the **Code** folder there are the python files . Data_Processing.py process the data which analyses the travel database and gives the medical professionals the details of the associated persons with the affected person.
 
-The second file Hot_Spot.py contains the code which dynamically plots the radar chart and gives the intuition of the upcoming hotspots in India.
 
