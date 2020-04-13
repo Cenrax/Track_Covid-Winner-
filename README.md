@@ -22,9 +22,7 @@ The data can be viewed from the following link: https://drive.google.com/drive/f
 One important thing to notice the database is dynamic in nature.
 
 ## App
-
-
-
+For the android app visit the link https://github.com/sourajit1999/Track_COVID-19
 
 ## Python code
 
