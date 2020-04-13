@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 11 00:46:35 2020
 
-@author: SUBHAM KUNDU
-"""
 import pandas as pd
 import tkinter as tk
 from tkinter import simpledialog
