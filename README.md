@@ -15,3 +15,20 @@ home quarantine and those who are released from the hospitals after being cured.
 Our app is a multipurpose app which is useful for both general public and medical professionals
 For general public, our app keeps them direct in touch with the medical professionals which keeps them updated on a regular basis and hence the possibility of fake news will get minimized by a great amount.
 For medical professionals, the app helps them to find the persons associated with the affected person. It also helps them to identify the persons belonging directly or indirectly to the COVID Hotspot Zones declared by the Government of India. And the third application of our app is the doctors can directly share information without any third-party media.
+
+## Datasets
+For demonstrating the code we have developed a dummy dataset on different travel history.
+The data can be viewed from the following link: https://drive.google.com/drive/folders/1lNSXaSkMGSeWKM6dUoedxpvgQXHvvanr?usp=sharing.
+One important thing to notice the database is dynamic in nature.
+
+## App
+
+
+
+
+## Python code
+
+In the **Code** folder there are two python files . Data_Processing.py process the data which analyses the travel database and gives the medical professionals the details of the associated persons with the affected person.
+
+The second file Hot_Spot.py contains the code which dynamically plots the radar chart and gives the intuition of the upcoming hotspots in India.
+
