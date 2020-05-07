@@ -1,4 +1,4 @@
-# Track_Covid
+# Track_Covid (Winner of the Hackathon)
 This is the of **Track_Covid** team in the Hackathon Code_India challenge.
 
 ## About
