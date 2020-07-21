@@ -1,0 +1,8 @@
+title: Track Covid
+description: This is the official repo of Track_Covid team in the Hackathon Code_India conducted by Motwani Jadeja Foundation.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
